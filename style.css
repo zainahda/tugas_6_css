@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  margin: 10px;
+}
+
+p {
+  margin: 10px;
+}
+
+.satu {
+  padding: 10px;
+  width: 300px;
+  height: 100px;
+  background-color: aqua;
+  overflow: scroll;
+  border: 10px dotted red;
+}
+
+.dua {
+  padding: 10px;
+  width: 300px;
+  height: 100px;
+  background-color: aqua;
+  overflow: scroll;
+  border: 5px solid green;
+}
+
+.tiga {
+  padding: 10px;
+  width: 300px;
+  height: 100px;
+  background-color: aqua;
+  overflow: scroll;
+  border: 15px dashed blue;
+}
